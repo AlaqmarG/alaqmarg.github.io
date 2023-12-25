@@ -1,13 +1,12 @@
 import React from "react";
 
+import Name from './Components/Name.js'
+
 import './App.css';
 
 function App() {
     return (
-        <div className="name">
-            <p>Alaqmar<br></br>Gandhi</p>
-            <img src={require('./Images/Arrow.png')} />
-        </div>
+        <Name />
     )
 }
 
