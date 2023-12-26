@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'LilitaOne';
+    src: url(../Fonts/LilitaOne.ttf);
+}
+
+.academic {
+    height: 100vh;
+    width: 100vw;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.academic > div {
+    text-align: center;
+
+    min-width: 300px;
+    margin: 20px;
+
+    flex: 1;
+    position: relative;
+}
+
+.academic > div > div {
+    position: absolute;
+    top: 0;
+
+    height: 100%;
+    width: 100%;
+}
+
+.academic > div > div > img {
+    margin: 10% 10%;
+
+    max-width: 70%;
+}
+
+.brock {
+    background-image: url("../Images/Campus.png");
+    background-size: cover;
+    background-position: center;
+
+    border-radius: 20px;
+}
+
+.icpc {
+    background-image: url("../Images/Team.png");
+    background-size: cover;
+    background-position: center;
+
+    border-radius: 20px;
+}
+
+.csc {
+    background-image: url("../Images/Workshop.png");
+    background-size: cover;
+    background-position: center;
+
+    border-radius: 20px;
+}
+
+
+.brock div {
+    background-color: rgba(204, 0, 0, 0.8);
+    border-radius: 20px;
+}
+
+.icpc div {
+    background-color: rgba(75, 75, 75, 0.8);
+    border-radius: 20px;
+}
+
+.csc div {
+    background-color: rgba(170, 59, 59, 0.8);
+    border-radius: 20px;
+}
+
+.academic > div > div > h1 {
+    margin-top: 10%;
+
+    color: white;
+
+    font-size: 2cqw;
+    font-weight: bold;
+}
+
+.academic > div > div > p {
+    margin: 20% 10%;
+
+    color: white;
+
+    line-height: 175%;
+    font-size: 1.75cqw;
+}
