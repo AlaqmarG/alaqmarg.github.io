@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b12e8016.css",
+    "main.js": "/static/js/main.fc13dd4b.js",
+    "static/media/Campus.png": "/static/media/Campus.703a11e7fcf185a70d9c.png",
+    "static/media/Team.png": "/static/media/Team.005e7e7d67bc2d2c2a90.png",
+    "static/media/Workshop.png": "/static/media/Workshop.3b1c543a610b3c7fd630.png",
+    "static/media/ICPC.png": "/static/media/ICPC.b84143ae979fc4275adf.png",
+    "static/media/LilitaOne.ttf": "/static/media/LilitaOne.e970d047065ed950bb8c.ttf",
+    "static/media/Brock.png": "/static/media/Brock.ad4ef8c7ebd021548ce4.png",
+    "static/media/CSC.png": "/static/media/CSC.d2550ecd8ef1b94fba95.png",
+    "index.html": "/index.html",
+    "main.b12e8016.css.map": "/static/css/main.b12e8016.css.map",
+    "main.fc13dd4b.js.map": "/static/js/main.fc13dd4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b12e8016.css",
+    "static/js/main.fc13dd4b.js"
+  ]
+}
